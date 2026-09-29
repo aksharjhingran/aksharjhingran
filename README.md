@@ -4,8 +4,10 @@
   <strong>Software Developer | Java · Spring Boot · Python | AI/ML</strong>
 </p>
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Akshar%20Jhingran&fontSize=50&animation=fadeIn&fontColor=ffffff&desc=Software%20Developer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20Python%20%7C%20AI%2FML&descSize=16&descAlignY=75)
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+Java+%7C+Spring+Boot;Python+%7C+Machine+Learning+%7C+Generative+AI;Building+AI-Powered+Applications;LangChain+%7C+LangGraph+%7C+RAG+%7C+FastAPI;Open+to+Software+%26+AI+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Software+Developer;Building+AI-Powered+Applications;Python+%7C+Machine+Learning+%7C+Generative+AI" alt="Typing SVG" />
 </p>
 
 <p align="center">
