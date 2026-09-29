@@ -1,8 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=180&section=header&text=Akshar%20Jhingran&fontSize=50&animation=fadeIn&fontColor=ffffff)
-
-<p align="center">
-  <strong>Software Developer | Java · Spring Boot · Python | AI/ML</strong>
-</p>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Akshar%20Jhingran&fontSize=50&animation=fadeIn&fontColor=ffffff&desc=Software%20Developer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20Python%20%7C%20AI%2FML&descSize=16&descAlignY=75)
 
