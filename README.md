@@ -166,8 +166,4 @@ FastAPI → REST APIs → AI-Powered Web Applications
 - Data Visualization with Tableau — Great Learning
 - HackerRank 5-Star in Problem Solving — 150+ DSA problems
 - LeetCode — 100+ problems solved
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aksharjhingran&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aksharjhingran&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+
